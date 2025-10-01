@@ -18,5 +18,7 @@ It helps learners practice coding directly in the browser through examples, mini
 /codathor
 
 ├── new.html # Main entry point (UI, editor, quizzes, language cards)
+
 ├── style.css # Styles for layout, editor, quizzes, and responsiveness
+
 └── code.js # JavaScript logic for compiler, projects, and interactivity
